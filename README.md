@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I'm Dale
+
+Currently studying Computer Science at the University of Melbourne (Computing and Software Systems major, Bachelor of Science)
 
 <!--
 **ArtemisGaming/ArtemisGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
